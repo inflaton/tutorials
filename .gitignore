@@ -2,3 +2,4 @@
 *.pth
 *.log
 projects/.DS_Store
+projects/*/*grid_search/
