@@ -3,3 +3,4 @@
 *.log
 projects/.DS_Store
 projects/*/*grid_search/
+projects/*/bpr_best_model/
